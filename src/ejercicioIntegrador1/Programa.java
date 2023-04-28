@@ -65,7 +65,7 @@ public class Programa {
 			}
 			bw.write("\nMonto final:  "+montoFinal);
 			bw.close();
-			System.out.println("Programa finalizado cn exito, tenga un buen dia");
+			System.out.println("Programa finalizado con exito, tenga un buen dia");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
