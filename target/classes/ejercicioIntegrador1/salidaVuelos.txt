@@ -1,0 +1,51 @@
+PROGRAMA DE VUELOS
+
+Informacion del vuelo BUENOS_AIRES
+Valor final:  1000.0
+Días de diferencia:  -117
+segmentacion:  No rentable
+----------------------------------------------------------------
+
+Informacion del vuelo BUENOS_AIRES
+Valor final:  5000.0
+Días de diferencia:  -117
+segmentacion:  Rentable
+----------------------------------------------------------------
+
+Informacion del vuelo BARCELONA
+Valor final:  250.0
+Días de diferencia:  -450
+segmentacion:  No rentable
+----------------------------------------------------------------
+
+Informacion del vuelo BARCELONA
+Valor final:  500.0
+Días de diferencia:  -450
+segmentacion:  No rentable
+----------------------------------------------------------------
+
+Informacion del vuelo NEW_YORK
+Valor final:  7500.0
+Días de diferencia:  -482
+segmentacion:  Rentable
+----------------------------------------------------------------
+
+Informacion del vuelo NEW_YORK
+Valor final:  15000.0
+Días de diferencia:  -482
+segmentacion:  Rentable
+----------------------------------------------------------------
+
+Informacion del vuelo TOKYO
+Valor final:  15000.0
+Días de diferencia:  -117
+segmentacion:  Rentable
+----------------------------------------------------------------
+
+Informacion del vuelo TOKYO
+Valor final:  20000.0
+Días de diferencia:  -117
+segmentacion:  Rentable
+----------------------------------------------------------------
+
+Monto final:  64250.0
